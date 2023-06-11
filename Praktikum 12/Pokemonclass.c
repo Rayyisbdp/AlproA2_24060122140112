@@ -1,7 +1,7 @@
 /*Nama File 	: Pokemonclass.c
 Deskripsi 	    : Mengelompokkan pokemon berdasarkan nilai power dan dioutputkan dalam file yang berbeda
-Nama            : Mohamad Faisal Rizki
-NIM   	        : 24060122130068
+Nama            : Muhammad Rayyis Budi Prasetyo
+NIM   	        : 24060122140112
 Tgl Pembuatan	: 11 Juni 2023*/
 #include <stdio.h>
 #include <stdlib.h>
